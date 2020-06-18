@@ -13,7 +13,7 @@
     "@dagonmetric/ng-config-firebase-remote-config": "^4.2.1",
     "@dagonmetric/ng-log": "^2.2.5",
     "@dagonmetric/ng-log-firebase-analytics": "^2.0.0",
-    "@dagonmetric/ng-log-gtag": "^2.2.3",
+    "@dagonmetric/ng-log-gtag": "^2.2.4",
     "rxjs": "^6.5.5",
     "zone.js": "^0.10.3"
   }
